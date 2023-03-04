@@ -9,7 +9,7 @@
 
 - 🔭 I’m currently working on **Healthcare Project**
 
-- 🌱 I’m currently learning **Data Engineering Tools**
+- 🌱 I’m currently learning **Data Engineering**
 
 - 💬 Ask me about **Informatica PC, Informatica Cloud, Azure Data Factory**
 
