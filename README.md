@@ -7,7 +7,7 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=shoaib9288&label=Profile%20views&color=0e75b6&style=flat" alt="shoaib9288" /> </p>
 
-- 🔭 I’m currently working on **Healthcare Project**
+- 🔭 I’m currently working in **Cognizant on Healthcare Project**
 
 - 🌱 I’m currently learning **Data Engineering**
 
