@@ -32,14 +32,17 @@
 
 - My Certifications and Courses:
 
-  ●[Microsoft Certified: Azure Fundamentals](https://www.credly.com/badges/caec10a2-5e34-42d4-b667-3792964b6994/public_url)
+  - [Microsoft Certified: Azure Fundamentals](https://www.credly.com/badges/caec10a2-5e34-42d4-b667-3792964b6994/public_url)
   
-  ●[Microsoft Certified: Azure Data Fundamentals](https://www.credly.com/badges/1f7c8ad8-1cae-4edc-a022-766a6cfd1742/public_url)
+  - [Microsoft Certified: Azure Data Fundamentals](https://www.credly.com/badges/1f7c8ad8-1cae-4edc-a022-766a6cfd1742/public_url)
   
-  ●[Microsoft Certified: Azure AI Fundamentals](https://www.credly.com/badges/fc6d31c7-d62f-4b35-8877-2aadddc28082/public_url)
+  - [Microsoft Certified: Azure AI Fundamentals](https://www.credly.com/badges/fc6d31c7-d62f-4b35-8877-2aadddc28082/public_url)
   
-  ●[Microsoft Certified: Azure Data Engineer Associate](https://www.credly.com/badges/82c917aa-1865-457e-8ec4-b2b77bb14a96/public_url)
+  - [Microsoft Certified: Azure Data Engineer Associate](https://www.credly.com/badges/82c917aa-1865-457e-8ec4-b2b77bb14a96/public_url)
   
-  ●[Certified SAFe® 5 Practitioner](https://www.credly.com/badges/95bf0ade-30d0-4c8d-b1da-4d38162cfbc5/public_url)
+  - [Certified SAFe® 5 Practitioner](https://www.credly.com/badges/95bf0ade-30d0-4c8d-b1da-4d38162cfbc5/public_url)
   
-  ●[AWS Certified Cloud Practitioner](https://www.credly.com/badges/b0e6a5d0-b1dd-4c38-a6ec-918aa37618f0/public_url)
+  - [AWS Certified Cloud Practitioner](https://www.credly.com/badges/b0e6a5d0-b1dd-4c38-a6ec-918aa37618f0/public_url)
+
+<img align="left" alt="coding" width="200" src="https://media.giphy.com/media/CBFOxlDsuAaozaE1D5/giphy.gif">
+<img align="center" alt="coding" width="200" src="https://media.giphy.com/media/ZSRWAKy103jizPmDxP/giphy.gif">
