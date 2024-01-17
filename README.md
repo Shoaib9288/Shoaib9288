@@ -44,5 +44,9 @@
   
   - [AWS Certified Cloud Practitioner](https://www.credly.com/badges/b0e6a5d0-b1dd-4c38-a6ec-918aa37618f0/public_url)
 
-<img align="left" alt="coding" width="200" src="https://media.giphy.com/media/CBFOxlDsuAaozaE1D5/giphy.gif">
-<img align="center" alt="coding" width="200" src="https://media.giphy.com/media/ZSRWAKy103jizPmDxP/giphy.gif">
+<img align="left" alt="azure" width="200" src="https://media.giphy.com/media/CBFOxlDsuAaozaE1D5/giphy.gif">
+<img align="center" alt="azure" width="200" src="https://media.giphy.com/media/ZSRWAKy103jizPmDxP/giphy.gif">
+
+<img align="left" alt="iics" width="200" src="https://github.com/Shoaib9288/Study_Materials/blob/main/Certification%20Badges/Cloud%20Data%20Integration%20for%20PC%20Badge.jpg">
+<img align="left" alt="iics" width="200" src="https://github.com/Shoaib9288/Study_Materials/blob/main/Certification%20Badges/Cloud%20Integration%20for%20Application%20Badge.jpg">
+<img align="left" alt="iics" width="200" src="https://github.com/Shoaib9288/Study_Materials/blob/main/Certification%20Badges/MDM%20Saas%20Badge.png">
