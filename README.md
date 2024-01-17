@@ -30,6 +30,13 @@
 
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=shoaib9288&" alt="shoaib9288" /></p>
 
+<img align="left" alt="azure" width="200" src="https://media.giphy.com/media/CBFOxlDsuAaozaE1D5/giphy.gif">
+<img align="center" alt="azure" width="200" src="https://media.giphy.com/media/ZSRWAKy103jizPmDxP/giphy.gif">
+
+<img align="left" alt="iics" width="200" src="https://github.com/Shoaib9288/Study_Materials/blob/main/Certification%20Badges/Cloud%20Data%20Integration%20for%20PC%20Badge.jpg">
+<img align="left" alt="iics" width="200" src="https://github.com/Shoaib9288/Study_Materials/blob/main/Certification%20Badges/Cloud%20Integration%20for%20Application%20Badge.jpg">
+<img align="center" alt="iics" width="200" src="https://github.com/Shoaib9288/Study_Materials/blob/main/Certification%20Badges/MDM%20Saas%20Badge.png">
+
 - My Certifications and Courses:
 
   - [Microsoft Certified: Azure Fundamentals](https://www.credly.com/badges/caec10a2-5e34-42d4-b667-3792964b6994/public_url)
@@ -43,10 +50,3 @@
   - [Certified SAFe® 5 Practitioner](https://www.credly.com/badges/95bf0ade-30d0-4c8d-b1da-4d38162cfbc5/public_url)
   
   - [AWS Certified Cloud Practitioner](https://www.credly.com/badges/b0e6a5d0-b1dd-4c38-a6ec-918aa37618f0/public_url)
-
-<img align="left" alt="azure" width="200" src="https://media.giphy.com/media/CBFOxlDsuAaozaE1D5/giphy.gif">
-<img align="center" alt="azure" width="200" src="https://media.giphy.com/media/ZSRWAKy103jizPmDxP/giphy.gif">
-
-<img align="left" alt="iics" width="200" src="https://github.com/Shoaib9288/Study_Materials/blob/main/Certification%20Badges/Cloud%20Data%20Integration%20for%20PC%20Badge.jpg">
-<img align="left" alt="iics" width="200" src="https://github.com/Shoaib9288/Study_Materials/blob/main/Certification%20Badges/Cloud%20Integration%20for%20Application%20Badge.jpg">
-<img align="left" alt="iics" width="200" src="https://github.com/Shoaib9288/Study_Materials/blob/main/Certification%20Badges/MDM%20Saas%20Badge.png">
