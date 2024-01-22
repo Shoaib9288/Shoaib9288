@@ -1,6 +1,6 @@
 ![logo](https://github.com/Shoaib9288/Shoaib9288/blob/main/1664168143615.jfif)
 <h1 align="center">Hi 👋,I'm Shoaib Shaikh</h1>
-<h3 align="center">An enthusiastic Data Engineer from India</h3>
+<h3 align="center">Programmer || Software Developer || Learner || Content Creator</h3>
 
 
 <img align="right" alt="coding" width="400" src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif">
